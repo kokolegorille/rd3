@@ -1,5 +1,7 @@
 # React w/ D3
 
+D3 in Action
+
 ### Dev Packages
 
 ```
@@ -16,4 +18,7 @@ npm install -D copy-webpack-plugin
 ```
 npm i react react-dom
 npm i d3 d3-scale d3-scale-chromatic d3-time-format
+
+
+npm i d3-shape d3-svg-legend d3-array d3-geo d3-selection d3-transition d3-brush d3-axis
 ```
